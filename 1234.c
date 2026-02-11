@@ -7,7 +7,7 @@
 #include <flipper_format/flipper_format_i.h>
 #include <toolbox/stream/stream.h>
 
-#define TAG "1234"
+#define TAG "MfkeysDecryptApp"
 
 #define KEYSTORE_DIR  APP_DATA_PATH("keystore")
 #define OUTPUT_FILE   APP_DATA_PATH("decrypted_keys.txt")
