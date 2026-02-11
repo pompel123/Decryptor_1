@@ -1,9 +1,9 @@
 App(
-    appid="mfkeys_decrypt",
-    name="MFKeys Decrypt",
+    appid="1234",
+    name="1234",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="mfkeys_decrypt_app",
     stack_size=8 * 1024,
     fap_category="Utilities",
-    fap_author=".leviathan",
+    fap_author="MR BERGLUND",
 )
